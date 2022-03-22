@@ -16,7 +16,7 @@ export const About = () => {
                 ></img>
                 </Col>
                 <Col>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque ullam deleniti dolore aperiam perspiciatis quia modi et quod dolor asperiores.</p>
+                <p>Born 30th August 1994</p>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt blanditiis, accusantium fugiat perferendis sed id ex iusto sint numquam illum!</p>
                 </Col>
             </Row>
