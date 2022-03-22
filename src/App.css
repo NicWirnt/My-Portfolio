@@ -1,0 +1,45 @@
+:root {
+    --primary: blue;
+    --secondary: rgb(250, 191, 114);
+
+}
+
+.wrapper{
+    position: relative;
+    min-height: 100vh;
+    background: linear-gradient( rgb(215, 221, 228), rgb(180, 179, 179))
+}
+
+/* Section */
+.section-title{
+    font-size: 3rem;
+    border-bottom: 5px solid var(--primary);
+    width: 250px;
+    margin: 5rem auto;
+    text-align: center;
+}
+
+.skill-list{
+    font-size: 2rem;
+}
+
+.skill-list i{
+    font-size: 6rem;
+}
+
+.project-section{
+    background-color: rgba(201, 209, 170, 0.87);
+}
+
+#imgNav{
+    border-radius: 50%;
+}
+
+#imgMe{
+    border-radius: 50%;
+}
+
+.about-me-img{
+    background: rgba(255, 129, 98, 0.562);
+    
+}   
