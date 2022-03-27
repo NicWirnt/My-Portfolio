@@ -43,3 +43,7 @@
     background: rgba(255, 129, 98, 0.562);
     
 }   
+
+main{
+    min-height: 70vh;
+}

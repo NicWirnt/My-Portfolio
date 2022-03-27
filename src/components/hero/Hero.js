@@ -7,7 +7,7 @@ import Me from '../../assets/MeBg.png'
 export const Hero = () => {
   return (
     <div className='hero'>
-        <Header />
+        
         <Container>
         <Row className='mt-5 pb-2'>
             <Col md="7">
