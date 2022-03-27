@@ -17,20 +17,12 @@ function App() {
   return (
     <div className='wrapper'>
       <DefaultLayout>
-        {/* SECTION */}
-        <Skills/>
-
-        {/* PROJECT SECTION */}
-        <Projects />
-
-        {/* ABOUT ME */}
-        <About />
-
-        {/* Contact Section */}
-        <Contact />
-
         
-      </DefaultLayout>
+        <Skills/>
+        <Projects />
+        <About />
+        <Contact />
+        </DefaultLayout>
     </div>
   );
 }
