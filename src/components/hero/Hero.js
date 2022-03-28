@@ -8,7 +8,7 @@ export const Hero = () => {
   return (
     <div className='hero'>
         
-        <Container>
+       {/* <Container> */}
         <Row className='mt-5 pb-2'>
             <Col md="7">
                 <div className="mb-2 pb-3">Hi I'm Nico Wiranata</div>
@@ -25,7 +25,7 @@ export const Hero = () => {
                 <img id='imgMe' src={Me} width="70%" alt="" />
             </Col>
         </Row>
-        </Container>
+        {/* </Container> */}
     </div>
   )
 }

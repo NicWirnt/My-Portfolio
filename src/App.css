@@ -47,3 +47,12 @@
 main{
     min-height: 70vh;
 }
+
+/* vslide section */
+.slider{
+    position: fixed;
+    right: 10px;
+    height: 30px;
+    width: 20px;
+    top: 50vh;
+}

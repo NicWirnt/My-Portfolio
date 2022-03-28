@@ -9,7 +9,7 @@ export const DefaultLayout = ({ children }) => {
   return (
     <div className='layout'>
         <Header/>
-      
+        
 
         <main>{children}</main>
 
